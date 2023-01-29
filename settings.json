@@ -1,0 +1,22 @@
+{
+    "token": "93ksfau1gb8vou6ceb4btr1dvmcsgojg",
+    "telegramBot": true,
+    "telegramToken": "5944449245:AAGVLLX5hERP_ca6KxrQKn2ARRKP2BPv-L8",
+    "telegramUserName": "f1tt_ad",
+    "alwaysOnline": true,
+    "lotsRaise": true,
+    "goodsStateCheck": true,
+    "autoIssue": false,
+    "autoResponse": false,
+    "autoIssueTestCommand": false,
+    "proxy": {
+        "useProxy": false,
+        "host": "",
+        "port": 3128,
+        "login": "",
+        "pass": "",
+        "type": "http"
+    },
+    "requestsDelay": 0,
+    "watermark": "[ 🔥NightBot ]"
+}
